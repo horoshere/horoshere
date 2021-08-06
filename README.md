@@ -1,10 +1,11 @@
 # Hi! My name is **Nikolay Eremeev** 👋
 
 ## I'm beginner *Front-end deveLoper* from Moscow.
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![HTML](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-2F4F4F?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-2F4F4F?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-2F4F4F?style=for-the-badge&logo=javascript)
+![REACT](https://img.shields.io/badge/-REACTJS-2F4F4F?style=for-the-badge&logo=react)
+### <a href='https://emojitool.ru/closed-mailbox-with-raised-flag'>📫</a> Mail me: niktyler7@gmail.com
 
 <!--
 **horoshere/horoshere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

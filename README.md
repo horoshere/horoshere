@@ -5,7 +5,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-2F4F4F?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-2F4F4F?style=for-the-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-REACTJS-2F4F4F?style=for-the-badge&logo=react)
-### <a href='https://emojitool.ru/closed-mailbox-with-raised-flag'>📫</a> Mail me: nikolayeremeev@internet.ru
+### <a href='https://emojitool.ru/closed-mailbox-with-raised-flag'>📫</a> mail me: nikolayeremeev@internet.ru
 
 <!--
 **horoshere/horoshere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
-# Hi! My name is **Nikolay Eremeev** 👋
+# **Nikolay Eremeev** 👋
 
-## I'm beginner *Front-end deveLoper* from Moscow.
+## *Front-end deveLoper* from Moscow.
 ![HTML](https://img.shields.io/badge/-HTML-2F4F4F?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-2F4F4F?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-2F4F4F?style=for-the-badge&logo=javascript)
